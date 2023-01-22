@@ -1,0 +1,1 @@
+Note: I quickly noticed this was a case of unsigned integer underflow. Stumbled for too long because I attempted to transfer tokens from my account to my account. Once I switched to a different _to address, executing a transfer function such that C.transfer(otherAddress, 21) worked.
