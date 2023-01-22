@@ -12,3 +12,5 @@ contract AttackForce {
         selfdestruct(payable(ADDRESS));
     }
 }
+
+// Using a check such that address(this).balance == 0 for any internal logic is an antipattern due to external contracts always being able to transfer funds via selfdestruct code
