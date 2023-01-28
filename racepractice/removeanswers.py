@@ -15,4 +15,4 @@ def remove_answers(filepath):
         # Write the lines without answers back to the file
         f.writelines(lines_without_answers)
 
-remove_answers("race4.txt")
+remove_answers("file.txt")
