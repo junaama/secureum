@@ -38,3 +38,6 @@
 (B): Using _mint instead of _safeMint if mint addresses are known to be EOA
 (C): Using unchecked in for loop increments
 **(D):** None of the above
+
+Score 1/8 Terrible
+Notes: This contract was largely unreadable for me, and within the time constraint I was overwhelmed
