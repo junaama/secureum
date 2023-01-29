@@ -38,3 +38,6 @@
 *(B):* Incorrect operator in the comparison
 (C): Unnecessary because Ethereum only has Contract accounts
 (D): None of the above
+
+score 3.5/8
+wont count #1 although i didnt answer
