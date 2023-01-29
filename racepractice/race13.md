@@ -50,3 +50,5 @@ return "Callback";
 (D): This cannot happen in this contract
 
 notes: 5 c bc minter or burner can be 0
+
+Score: 3.5/8 :sob:
