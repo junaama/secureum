@@ -39,5 +39,6 @@
 (C): Unnecessary because Ethereum only has Contract accounts
 (D): None of the above
 
-score 3.5/8
+score 4.5/8
 wont count #1 although i didnt answer
+recount due to missing my correct answers
